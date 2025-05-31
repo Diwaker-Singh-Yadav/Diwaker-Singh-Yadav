@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Python,C++,C
 - 📫 How to reach me 
-- Email:-rockingtushar43@gmail.com
-- 
+- Email:-diwakersinghyadav43@gmail.com
+ 
 
 <!---
 Diwaker-Singh-Yadav/Diwaker-Singh-Yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
